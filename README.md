@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/helpermethod?template=classic&config.timezone=Europe%2FBerlin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=helpermethod)](https://github.com/ryo-ma/github-profile-trophy)
